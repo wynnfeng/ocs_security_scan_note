@@ -1,0 +1,2 @@
+# ocs_security_scan_note
+该仓库用于触发内网流水线去对OCS进行安全扫描
